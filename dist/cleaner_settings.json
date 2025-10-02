@@ -1,0 +1,7 @@
+{
+    "auto_clean": true,
+    "auto_clean_interval": 1,
+    "backup_folder": "",
+    "backup_enabled": false,
+    "minimize_to_tray": true
+}
